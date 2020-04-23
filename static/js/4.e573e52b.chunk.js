@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-kabzda-1"]=this["webpackJsonpreact-kabzda-1"]||[]).push([[4],{300:function(e,t,a){},302:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n);a(300);t.default=function(){return c.a.createElement("div",null,c.a.createElement("div",null,"\u0417\u0434\u0435\u0441\u044c \u0431\u0443\u0434\u0443\u0442 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438"))}}}]);
+//# sourceMappingURL=4.e573e52b.chunk.js.map
